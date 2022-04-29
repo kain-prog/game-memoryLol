@@ -11,6 +11,7 @@ body{
     align-items: center;
     flex-direction: column;
     padding: 10px 0px;
+    flex-wrap: wrap;
 }
 
 .kain-dev{
